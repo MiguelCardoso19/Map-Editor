@@ -1,6 +1,6 @@
 # Map Editor
 
-Map Editor is a simple canvas grid-based application where you can paint, and describe maps effortlessly. This Java-based tool provides an intuitive interface for designing grids and customizing them with colors.
+Map Editor is a simple canvas grid-based application where you can paint and describe maps effortlessly. This Java-based tool provides an intuitive interface for designing grids and customizing them with colors.
 
 ## Features
 
@@ -9,11 +9,16 @@ Map Editor is a simple canvas grid-based application where you can paint, and de
 - Save and load maps to and from files
 - Clear all painted cells to reset the map
 
+## Tech Stack
+
+- Java
+- [SimpleGraphics Library](https://www.academiadecodigo.org/)
+
 ## How to Use
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `MapEditor` class.
+3. Compile and run the MapEditor class.
 4. Use the arrow keys to move the cursor around the grid.
 5. Press keys 1-9 to select a color from the palette.
 6. Press the space key to paint or clear cells.
