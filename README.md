@@ -9,7 +9,7 @@ Map Editor is a simple canvas grid-based application where you can paint and des
 - Save and load maps to and from files
 - Clear all painted cells to reset the map
 
-## Tech Stack
+## Technologies Used
 
 - Java
 - SimpleGraphics Library
