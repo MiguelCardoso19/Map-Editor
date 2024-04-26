@@ -12,7 +12,7 @@ Map Editor is a simple canvas grid-based application where you can paint and des
 ## Tech Stack
 
 - Java
-- [SimpleGraphics Library](https://www.academiadecodigo.org/)
+- SimpleGraphics Library
 
 ## How to Use
 
